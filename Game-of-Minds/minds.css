@@ -1,6 +1,6 @@
 body {
   font-family: 'Quicksand', sans-serif;
-  background: url(../image/p.jpg);
+  background: url(p.jpg);
   background-size: cover;
 }
 
@@ -40,7 +40,7 @@ body {
 }
  
 .flip-card {
-  background-image: url("../image/l.jpg");
+  background-image: url("l.jpg");
   width: 200px;
   height: 200px;
   perspective: 1000px;
